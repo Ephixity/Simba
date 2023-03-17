@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_country	au
+www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_region	vic
+www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_city	brunswickeast_vic
+
